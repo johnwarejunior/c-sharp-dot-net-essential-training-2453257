@@ -2,7 +2,7 @@
 // Example file for Replacing content with Regexes 
 using System.Text.RegularExpressions;
 
-string teststr1 = "The quick brown Fox jumps over the lazy Dog";
+//string teststr1 = "The quick brown Fox jumps over the lazy Dog";
 
 Regex CapWords = new Regex(@"[A-Z]\w+");
 
